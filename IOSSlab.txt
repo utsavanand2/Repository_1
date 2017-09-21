@@ -2,6 +2,10 @@ The IOSS Lab,
 GLA University,
 Mathura.
 
+Finally started using Github
+
+New branch created and changes made
+=======
 Finally started using GitHub
 
-Github Hub of Gits
+Github Hub of Git
